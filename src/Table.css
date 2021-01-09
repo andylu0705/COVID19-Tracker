@@ -1,0 +1,27 @@
+.table{
+    margin-top: 20px;
+    overflow: scroll;
+color: rgb(10, 0, 0);
+background-color:#f9f7f7;
+font-size: 1.5rem;
+height: 440px;
+}
+.table tr{
+    display: flex;
+    justify-content: space-between;
+}
+
+.table td{
+    padding: 0.4rem;
+}
+
+
+.table tr:nth-of-type(odd){
+    color: rgb(10, 1, 26);
+    background-color: #dbe2ef;
+}
+.info-fla{
+    height: 30%;
+    width: 60%;
+  border-radius: 10%;
+}
