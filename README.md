@@ -1,10 +1,12 @@
 # COVID19-Tracker:
-##Project Technology: 
-HTML, CSS, Boostrap, JavaScript, React, Material UI and Firebase.
-##Description: 
-Enable to trace COVID 19( cases, recoved and deaths) by country and show all the information in Map.
-##Link: 
-[Link](https://covid-19-tracker-3bd27.web.app/?fbclid=IwAR0UrGtNMHWhkSnSpPiyOT38t385nbYMzfUgxnUgxq958Xiiac8zIGh2lC8)
+## Project Technology:
+#### HTML, CSS, Boostrap, JavaScript, React, Material UI and Firebase.
+## Description:
+#### Enable to trace COVID 19( cases, recoved and deaths) by country and show all the information in Map.
+## Link: [Link](https://covid-19-tracker-3bd27.web.app/?fbclid=IwAR0UrGtNMHWhkSnSpPiyOT38t385nbYMzfUgxnUgxq958Xiiac8zIGh2lC8)
+
+![](covid19.jpg)
+
 
 
 
